@@ -1,5 +1,3 @@
-📝 To-Do List Web App
-A sleek and responsive to-do list web app built with React, designed to help you stay organized and on top of your tasks! 🎯
 
 Key Features:
 - Add New Tasks: Effortlessly create new to-do items with a clean and intuitive interface.
