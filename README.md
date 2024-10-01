@@ -2,7 +2,7 @@
 Key Features:
 - Add New Tasks: Effortlessly create new to-do items with a clean and intuitive interface.
 - Edit Existing Tasks: Need to update your goals? Edit your tasks easily at any time to reflect your changing priorities.
-- Task Management: Mark tasks as complete and remove them from your list once they’re done, keeping your to-do list clutter-free.
+- Task Management: Mark tasks as complete by removing them from your list once they’re done, keeping your to-do list clutter-free.
 - Real-Time Updates: Enjoy a seamless experience with live updates, ensuring your tasks are saved and displayed in real-time.
 - Persistent Storage: Your tasks are stored locally, so they remain saved even if you close or refresh your browser.
 - Minimalistic Design: A modern, minimal design to keep the focus on productivity, while maintaining a visually pleasing interface.
