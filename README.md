@@ -14,3 +14,4 @@ Technologies Used:
 - Local Storage: To persist user data and ensure tasks are saved across sessions.
 This app is perfect for anyone looking to manage their day-to-day tasks with ease. You can add, edit, or delete goals as they come up, helping you stay on track and achieve your objectives more efficiently.
 
+![image](https://github.com/user-attachments/assets/f3cd14dd-c560-4a7e-b6e9-cff4cb3606f8)
